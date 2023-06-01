@@ -1,0 +1,7 @@
+[
+  {
+    "ngModuleName": "ExampleModule",
+    "remoteEntry": "http://localhost:3100/remoteEntry.js",
+    "default": true
+  }
+]
